@@ -27,7 +27,7 @@ metadata:
     - react
     - spa
 spec:
-  owner: giovanni.astarita@tuta.io
+  owner: platform-engineers
   type: website
   parameters:
     - title: Provide some simple information
