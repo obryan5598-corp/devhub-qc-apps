@@ -9,7 +9,7 @@ metadata:
     - title: My Quay
       url: https://quay.io
   annotations:
-    quay.io/repository-slug: openshift/okd
+    quay.io/repository-slug: obryan5598/devhub-qc-apps
 spec:
   type: website
   system: myapp
