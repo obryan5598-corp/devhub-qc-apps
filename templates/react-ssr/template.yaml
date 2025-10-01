@@ -27,7 +27,7 @@ metadata:
     - react
     - spa
 spec:
-  owner: platform-engineers
+  owner: obryan5598
   type: website
   parameters:
     - title: Provide some simple information
